@@ -1,0 +1,98 @@
+PYTHON DJANGO BACKEND DEVELOPER / FULL STACK DEVELOPER
+======================================================
+
+**Łukasz Bobrowski**
+
+[EN]
+
+Technologies
+  - Python
+  - Django
+  - REST API (Django REST Framework)
+  - HTML, CSS
+  - Javascript (React, Vue)
+  - git
+
+Programming Skills
+  - OOP (Object Oriented Programming)
+  - TDD (Test Driven Development)
+
+Soft skills
+  - Friendly, non-confrontational
+  - Analytical, problem-solving mindset
+  - Eager to learn and grow
+  - Modesty, can take criticism
+  - Positive, optimistic attitude
+  - Critical thinking
+
+Education
+  2003: High School Leaving Certificate (Matura, Abitur)
+    - Mathematics
+    - English
+    - IT
+  2003 - 2006: Informatics and Econometrics (University of Szczecin)
+    - Computer programming
+    - Statistics
+    - Macro- and microeconomics
+  2008 - 2010: International Relations (University of Szczecin)
+
+Languages
+  - English (fluent)
+  - Polish (native)
+  - German (basic)
+
+Previous Career
+  2006-2007: Various jobs (Bristol, UK)
+  2007-2020: Collector Shop Andrzej Bobrowski (Szczecin, Poland)
+    - Customer service
+    - E-commerce, mail orders and subscriptions
+    - managing large inventory
+    - Coin and stamp appraisal
+    - IT and web dev
+
+[PL]
+
+Technologie
+  - Python
+  - Django
+  - REST API (Django REST Framework)
+  - HTML, CSS
+  - Javascript (React, Vue)
+  - git
+
+Programowanie
+  - OOP (Object Oriented Programming)
+  - TDD (Test Driven Development)
+
+Umiejętności miękkie
+  - Przyjazny, bezkonfliktowy
+  - Analityczne podejście do rozwiązywania problemów
+  - Chęć do nauki i rozwoju
+  - Skromny, potrafi przyjąć krytykę
+  - Pozytywne, optymistyczne nastawienie
+  - Umiejętność krytycznego myślenia
+
+Edukacja
+  2003: Matura
+    - Matematyka
+    - Angielski
+    - Informatyka
+  2003-2006: Informatyka i Ekonometria (Uniwersytet Szczeciński)
+    - Programowanie Komputerów
+    - Statystyka
+    - Makro- i mikroekonomia
+  2008 - 2010: Stosunki Międzynarodowe (Uniwersytet Szczeciński)
+
+Języki
+  - Polski (ojczysty)
+  - Angielski (biegły)
+  - Niemiecki (podstawowy)
+
+Historia zatrudnienia
+  2006-2007: Różne prace (Bristol, Wielka Brytania)
+  2007-2020: Sklep Kolekcjonerski Andrzej Bobrowski (Szczecin)
+    - Obsługa klientów
+    - E-commerce, sprzedaż wysyłkowa i abonament
+    - obsługa magazynu
+    - Wycena i skup monet i znaczków
+    - Informatyka i programowanie stron
